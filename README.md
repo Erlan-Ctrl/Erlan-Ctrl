@@ -1,4 +1,6 @@
-# Olá, me chamo Erick Erlan!
+# Erick Erlan
+
+**`Desenvolvedor FullStack e Mobile`**
 
 ##  ♨️ Estatísticas GitHub
 
