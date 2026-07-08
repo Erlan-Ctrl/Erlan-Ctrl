@@ -14,25 +14,30 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim / About Me
+
+🇧🇷 **Português**
 
 Sou Analista e Desenvolvedor de Sistemas com 2 anos de experiência em desenvolvimento, atuando diretamente com tecnologia aplicada ao setor público, trabalhando atualmente com desenvolvimento e manutenção de sistemas na Polícia. Atuo em ambientes que exigem confiabilidade, segurança da informação e estabilidade, lidando com dados sensíveis e sistemas críticos.
 
+🇺🇸 **English**
+
+I'm a Systems Analyst and Developer with 2 years of experience in software development, working directly with technology applied to the public sector. I currently develop and maintain systems for the police, in environments that demand reliability, information security, and stability, handling sensitive data and mission-critihttps://github.com/ryo-ma/github-profile-trophycal systems.
+
 ---
 
-## ♨️ Estatísticas GitHub
+## ♨️ Estatísticas GitHub / GitHub Stats
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Erlan-Ctrl&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Erlan-Ctrl&theme=dracula&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-trophies.vercel.app/?username=Erlan-Ctrl&theme=dracula&no-frame=true&row=1&column=6)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
 ---
 
-## 🔧 Habilidades
+## 🔧 Habilidades / Skills
 
 **Backend**
 
@@ -56,7 +61,7 @@ Sou Analista e Desenvolvedor de Sistemas com 2 anos de experiência em desenvolv
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
 
-**Banco de Dados & DevOps**
+**Database & DevOps**
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
@@ -64,7 +69,7 @@ Sou Analista e Desenvolvedor de Sistemas com 2 anos de experiência em desenvolv
 
 ---
 
-## 🚀 Trabalhando atualmente:
+## 🚀 Trabalhando atualmente / Currently Working On
 
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
